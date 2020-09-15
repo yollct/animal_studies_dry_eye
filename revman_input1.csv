@@ -1,0 +1,219 @@
+model_DE,model,study,country,parameter,site,mean.d,SD.d,total.d,mean.c,SD.c,total.c
+CD25KO mice,CD25KO mice,Bunney 2017,Hangzhou,IFN-γ,corneal,2.9,0.01,6,1,0.1,6
+CD25KO mice,CD25KO mice,Bunney 2017,Hangzhou,IL-12,corneal,9,1,6,0.5,1,6
+CD25KO mice,CD25KO mice,Bunney 2017,Hangzhou,IL-17A,corneal,8,0.1,6,0.5,1,6
+CD25KO mice,CD25KO mice,Bunney 2017,Hangzhou,IL-1β,corneal,3,0.1,6,1,0.1,6
+CD25KO mice,CD25KO mice,Bunney 2017,Hangzhou,IL-23,corneal,1,0.2,6,0.5,0.2,6
+CD25KO mice,CD25KO mice,Bunney 2017,Hangzhou,MHC II,corneal,3,0.01,6,1,0.1,6
+CD25KO mice,CD25KO mice,Bunney 2017,Hangzhou,TNF-α,corneal,2.8,0.1,6,1,0.1,6
+C57BL/6 mice,SI mice,chauhan 2009,Boston,IL-17,conjunctiva,2.5,0.5,5,1,0.1,5
+C57BL/6 mice,SI mice,chauhan 2009,Boston,IL-6,conjunctiva,1.3,0.05,5,1,0.1,5
+C57BL/6 mice,DS mice,chen 2013,Wenzhou,IL-17,conjunctiva,28,5,3,1,0.1,3
+C57BL/6 mice,DS mice,chen 2013,Wenzhou,IL-1β,conjunctiva,8.7,2,3,1,0.1,3
+C57BL/6 mice,DS mice,chen 2013,Wenzhou,IL-6,conjunctiva,11,1,3,1,0.1,3
+C57BL/6 mice,DS mice,chen 2013,Wenzhou,TNF-α,conjunctiva,9,1,3,1,0.1,3
+C57BL/6 mice,SI mice,chen 2014,Shanghai,IL-1β,conjunctiva,757.73,23.74,3,353.6,26.36,3
+C57BL/6 mice,SI mice,chen 2014,Shanghai,TNF-α,conjunctiva,9717,704.32,3,1066,106.59,3
+Aire mice,Aire mice,Chen 2017,San Francisco,CD4 T cells,corneal,10.17,0.92,3,0.2,0.13,3
+Aire mice,Aire mice,chen 2018,Boston,CD4 T cells,conjunctiva,8.66,2.99,4,1,0.1,4
+C57BL/6 mice,DS mice,Chen and chauhan 2017,Boston,IL-15,conjunctiva,100,20,5,45,5,5
+C57BL/6 mice,DS mice,Chen and chauhan 2017,Boston,IL-17,conjunctiva,40,10,5,1,0.1,5
+C57BL/6 mice,DS mice,Chen and chauhan 2017,Boston,TH17 cells,conjunctiva,3.9,0.5,5,0.3,0.1,5
+C57BL/6 mice,SI mice,choi 2016,Gwangju,CD4 T cells,conjunctiva ,65.76,10.47,10,22.54,3.74,10
+C57BL/6 mice,SI mice,choi 2016,Gwangju,IFN-γ,conjunctiva ,78,10,10,21,2,10
+C57BL/6 mice,SI mice,choi 2016,Gwangju,IL-1β,conjunctiva ,100,20,10,50,5,10
+C57BL/6 mice,SI mice,choi 2016,Gwangju,IL-6,conjunctiva ,30,2,10,19,3,10
+C57BL/6 mice,SI mice,choi 2016,Gwangju,TNF-α,conjunctiva ,15,3,10,3.5,0.1,10
+Albino rabbit,BAC_albino,choi 2019,Gwangju,IFN-γ,conjunctiva ,120,20,6,10,20,6
+Albino rabbit,BAC_albino,choi 2019,Gwangju,IL-1β,conjunctiva ,70,10,6,30,10,6
+Albino rabbit,BAC_albino,choi 2019,Gwangju,IL-6,conjunctiva ,20,5,6,5,5,6
+Albino rabbit,BAC_albino,choi 2019,Gwangju,TNF-α,conjunctiva ,28,4,6,8,5,6
+TSP-1 null mice,TSP-1 null mice,contretas-ruiz 2013,Boston,IFN-γ,conjunctiva ,1.8,0.3,3,0.4,0.001,3
+TSP-1 null mice,TSP-1 null mice,contretas-ruiz 2013,Boston,IL-17A,conjunctiva ,1.4,0.2,3,0.5,0.001,3
+TSP-1 null mice,TSP-1 null mice,contretas-ruiz 2013,Boston,IL-6,conjunctiva ,0.6,0.05,3,0.3,0.05,3
+TSP-1 null mice,TSP-1 null mice,contretas-ruiz 2013,Boston,Th1,conjunctiva ,6,0.01,3,0.6,0.2,3
+TSP-1 null mice,TSP-1 null mice,contretas-ruiz 2013,Boston,Th17,conjunctiva ,1.2,0.02,3,0.9,0.001,3
+TSP-1 null mice,TSP-1 null mice,contretas-ruiz 2016,Boston,IL-1β,corneal,2.5,0.5,4,1,0.1,4
+C57BL/6 mice,SI mice,Coursey 2013,Houston,CD4 T cells,conjunctiva,2,0.1,3,1.2,0.2,3
+C57BL/6 mice,SI mice,Coursey 2013,Houston,IFN-γ,ocular suface,2.3,0.5,3,1,0.1,3
+C57BL/6 mice,SI mice,Coursey 2013,Houston,IL-13,ocular suface,1.9,0.2,3,1,0.1,3
+C57BL/6 mice,SI mice,Coursey 2013,Houston,IL-17A,ocular suface,1.8,0.3,3,1,0.1,3
+C57BL/6 mice,SI mice,De Paiva 2006,Houston,IL-1α,corneal,1.6,0.1,5,1,0.1,5
+C57BL/6 mice,SI mice,De Paiva 2006,Houston,IL-1β,corneal,1.7,0.4,5,1,0.1,5
+C57BL/6 mice,DS mice,De Paiva 2008,Houston,CCL20,corneal,2.52,0.44,8,1,0.52,8
+C57BL/6 mice,DS mice,De Paiva 2008,Houston,IFN-γ,corneal,0.21,0.54,8,1,0.35,8
+C57BL/6 mice,DS mice,De Paiva 2008,Houston,IL-12,corneal,0.37,0.31,8,1,0.51,8
+C57BL/6 mice,DS mice,De Paiva 2008,Houston,IL-15,corneal,0.44,0.27,8,1,0.21,8
+C57BL/6 mice,DS mice,De Paiva 2008,Houston,IL-17A,corneal,1.89,0.66,8,1,0.55,8
+C57BL/6 mice,DS mice,De Paiva 2008,Houston,IL-2,corneal,1.29,0.35,8,1,0.67,8
+C57BL/6 mice,DS mice,De Paiva 2008,Houston,IL-23,corneal,2.24,0.51,8,1,0.49,8
+C57BL/6 mice,DS mice,De Paiva 2008,Houston,IL-6,corneal,2.51,0.57,8,1,0.36,8
+C57BL/6 mice,DS mice,De Paiva 2008,Houston,TGF-β,corneal,0.47,0.32,8,1,0.29,8
+CD25KO mice,CD25KO mice,De Paiva 2010,Houston,CD11b,conjunctiva ,2.6,0.98,20,2.47,1.44,20
+CD25KO mice,CD25KO mice,De Paiva 2010,Houston,CD4 T cells,conjunctiva ,2.69,0.99,20,0.9,0.53,20
+CD25KO mice,CD25KO mice,De Paiva 2010,Houston,CD45,conjunctiva ,6.36,1.97,20,5.49,1.56,20
+CD25KO mice,CD25KO mice,De Paiva 2010,Houston,CD8 T cells,conjunctiva ,3.64,0.99,20,1,0.1,20
+CD25KO mice,CD25KO mice,De Paiva 2010,Houston,IL-10,conjunctiva ,1,0.1,20,0.1,0.1,20
+CD25KO mice,CD25KO mice,De Paiva 2010,Houston,IL-2,conjunctiva ,0.2,0.2,20,0.1,0.05,20
+CD25KO mice,CD25KO mice,De Paiva 2010,Houston,IL-6,conjunctiva ,2.3,0.4,20,0.1,0.001,20
+DS mice,DS mice,De Paiva 2011,Houston,CD4 T cells,corneal,3.5,0.5,5,0.2,0.1,5
+DS mice,DS mice,De Paiva 2011,Houston,IFN-γ,corneal,5.5,1,5,1,0.1,5
+DS mice,DS mice,De Paiva 2011,Houston,IL-13,corneal,3,0.2,5,1,0.1,5
+DS mice,DS mice,De Paiva 2011,Houston,IL-17A,corneal,8,0.2,5,1,0.1,5
+DS mice,DS mice,De Paiva 2011,Houston,IL-6,corneal,5,1,5,1,0.1,5
+C57BL/6 mice,PD Knock-in mice,Dong 2010,New Haven,CCL2,liver,0.6,0.2,3,0.2,0.01,3
+C57BL/6 mice,PD Knock-in mice,Dong 2010,New Haven,CXCL2,liver,0.6,0.2,3,0.05,0.03,3
+C57BL/6 mice,PD Knock-in mice,Dong 2010,New Haven,INOS,liver,0.5,0.5,3,0.01,0.001,3
+C57BL/6 mice,PD Knock-in mice,Dong 2010,New Haven,KC,liver,1.2,0.3,3,0.1,0.05,3
+C57BL/6 mice,PD Knock-in mice,Dong 2010,New Haven,TNF-α,liver,0.8,0.4,3,0.2,0.1,3
+C57BL/6 mice,SI mice,el annan 2009,Boston,IFN-γ,conjunctiva ,210,20,4,90,10,4
+C57BL/6 mice,SI mice,el annan 2009,Boston,IL-4,conjunctiva ,30,5,4,55,5,4
+Lewis rats,SI rats,Han 2017,Seoul,TNF-α,,41.59,6.29,4,27.5,5.61,4
+Lewis rats,SI rats,Hou 2017,Singapore,CD3 effector memory T cells,,70,5,6,54,3,3
+Albino rabbit,BAC_albino,Huang 2018,Taipei,IL-1β,corneal,686.9,4.3,6,443,5.5,6
+Albino rabbit,BAC_albino,Huang 2018,Taipei,IL-6,corneal,133.2,9.6,6,34,3.7,6
+Albino rabbit,BAC_albino,Huang 2018,Taipei,IL-8,corneal,907.7,116.4,6,626.6,2.5,6
+Albino rabbit,BAC_albino,Huang 2018,Taipei,TNF-α,corneal,136.2,24.4,6,8.5,2.8,6
+Sprague-Dawley rats,UPM_SD rats,Hyun 2019,Daejeon,IL-6,conjunctiva,3,0.4,3,1,0.1,3
+Sprague-Dawley rats,UPM_SD rats,Hyun 2019,Daejeon,TNF-α,conjunctiva,3.4,0.5,3,1,0.1,3
+C57BL/6 mice,SI mice,ji 2013,Seoul,IFN-γ,corneal,10,3,3,1,0.1,3
+C57BL/6 mice,SI mice,ji 2013,Seoul,IL-21,corneal,25,2,3,3,0.001,3
+C57BL/6 mice,SI mice,ji 2013,Seoul,IL-6,corneal,2.5,0.3,3,0.2,0.001,3
+wistar rats,LGR_wistar rats,Joossen 2016,Wilrijk,IL-1β,tear fluid,3400,300,5,800,100,5
+wistar rats,LGR_wistar rats,Joossen 2016,Wilrijk,TNF-α,tear fluid,3400,300,5,800,150,5
+NOD mice,NOD mice ,Ju 2018,Los Angeles,IFN-γ,Lacrimal,6,1,5,1,0.1,5
+NOD mice,NOD mice ,Ju 2018,Los Angeles,MHC II,Lacrimal,45,5,5,1,0.1,5
+C57BL/6 mice,SI mice,kodati 2014,Boston,CCR1,corneal,1800,500,6,250,10,6
+C57BL/6 mice,SI mice,kodati 2014,Boston,CCR2,corneal,2700,500,6,1200,100,6
+C57BL/6 mice,SI mice,kodati 2014,Boston,CCR5,corneal,3700,1000,6,1600,200,6
+C57BL/6 mice,SI mice,kodati 2014,Boston,CCR7,corneal,2500,500,6,250,10,6
+C57BL/6 mice,SI mice,krauss 2015,Pennsylvania,dendritic cells,lymph nodes,3.9,0.5,16,2.1,0.5,16
+C57BL/6 mice,SI mice,krauss 2015,Pennsylvania,dendritic cells,lymph nodes,2.1,0.5,16,1.9,0.5,16
+C57BL/6 mice,SI mice,lee 2012,Boston,TLR4,corneal,28,2,6,5,3,6
+NOD.B10.H2b mice ,NOD.B10.H2b mice ,Lee 2015,Seoul,IFN-γ,ocular suface,2.9,1,10,1,0.1,10
+NOD.B10.H2b mice ,NOD.B10.H2b mice ,Lee 2015,Seoul,IL-1β,ocular suface,4.5,2,10,1,0.1,10
+NOD.B10.H2b mice ,NOD.B10.H2b mice ,Lee 2015,Seoul,IL-2,ocular suface,7,2,10,1,0.1,10
+NOD.B10.H2b mice ,NOD.B10.H2b mice ,Lee 2015,Seoul,IL-6,ocular suface,2.4,0.5,10,1,0.1,10
+NOD.B10.H2b mice ,NOD.B10.H2b mice ,Lee 2015,Seoul,TNF-α,ocular suface,3,1,10,1,0.1,10
+C57BL/6 mice,SI mice,Lee 2017,Boston,dendritic cells,corneal,160,50,4,90,10,4
+C57BL/6 mice,SI mice,Lee 2017,Boston,dendritic cells,corneal,160,50,4,80,5,4
+NOD mice,NOD mice,Li 2018,Nanjing,IL-17A,submandibular glands,8.8,1,5,5.9,0.4,5
+C57BL/6 mice,SI mice,li 2019,Gwangju,CD11b ,conjunctiva ,800,50,6,100,1,6
+C57BL/6 mice,SI mice,li 2019,Gwangju,IFN-γ,conjunctiva ,55,6,6,20,0.001,6
+C57BL/6 mice,SI mice,li 2019,Gwangju,IL-1β,conjunctiva ,115,20,6,40,0.001,6
+C57BL/6 mice,SI mice,li 2019,Gwangju,IL-6,conjunctiva ,40,5,6,8,0.001,6
+C57BL/6 mice,SI mice,li 2019,Gwangju,TNF-α,conjunctiva ,20,5,6,5,0.001,6
+CBA/J mice,BTX_CBA/J mice,lin 2014,Guangzhou,IL-1β,ocular suface,30000,5000,5,6000,500,5
+CBA/J mice,BTX_CBA/J mice,lin 2014,Guangzhou,TNF-α,ocular suface,40000,10000,5,10000,500,5
+C57BL/6 mice,SI mice,McClellan 2014,Houston,CCL20,corneal,4,1,3,1,0.1,3
+C57BL/6 mice,SI mice,McClellan 2014,Houston,CD4 T cells,conjunctiva,1.5,0.3,3,0.5,0.1,5
+C57BL/6 mice,SI mice,McClellan 2014,Houston,CD8 T cells,conjunctiva,0.14,0.3,3,0.8,0.1,5
+C57BL/6 mice,SI mice,McClellan 2014,Houston,IFN-γ,conjunctiva,3,1.5,3,1,0.1,3
+C57BL/6 mice,SI mice,McClellan 2014,Houston,IL-17A,corneal,13,1,3,1,0.1,3
+IL-1RKO,IL-1RKO,Narayanan 2008,Houston,IL-1α,corneal,0.2,0.1,3,0.4,0.1,3
+IL-1RKO,IL-1RKO,Narayanan 2008,Houston,IL-1β,corneal,1.6,0.1,3,0.5,0.1,3
+IL-1RKO,IL-1RKO,Narayanan 2008,Houston,IL-6,corneal,0.3,0.4,3,0.4,0.4,3
+IL-1RKO,IL-1RKO,Narayanan 2008,Houston,TNF-α,corneal,2.3,0.5,3,2,0.1,3
+B6129SF2/J,SI mice,Narayanan 2008,Houston,IL-1α,corneal,1.2,0.4,3,1,0.1,3
+B6129SF2/J,SI mice,Narayanan 2008,Houston,IL-1β,corneal,1.3,0.3,3,1,0.1,3
+B6129SF2/J,SI mice,Narayanan 2008,Houston,IL-6,corneal,1.3,0.5,3,1,0.1,3
+B6129SF2/J,SI mice,Narayanan 2008,Houston,TNF-α,corneal,2,0.4,3,1,0.1,3
+NOD mice,NOD mice,Park 2017,Incheon,IL-17,serum,420,100,7,300,50,7
+wistar rats,LGR_wistar rats,Park 2018,Daejeon,IL-6,corneal,1.7,0.1,3,1,0.4,3
+wistar rats,LGR_wistar rats,Park 2018,Daejeon,TNF-α,corneal,1.9,0.3,3,1,0.1,3
+CD25KO mice,CD25KO mice,Pelegrino 2012,Houston,CD4 T cells,Lacrimal,18,5,5,6,4,5
+CD25KO mice,CD25KO mice,Pelegrino 2012,Houston,CD8 T cells,Lacrimal,49,5,5,3,2,5
+IFN-γKO,IFN-γKO,Pelegrino 2012,Houston,CD4 T cells,Lacrimal,8,5,5,6,4,5
+IFN-γKO,IFN-γKO,Pelegrino 2012,Houston,CD8 T cells,Lacrimal,3,3,5,3,2,5
+C57BL/6 mice,BAC_B6,Qu 2019,Qingdao,IFN-γ,corneal,2.8,0.5,5,1,0.1,5
+C57BL/6 mice,BAC_B6,Qu 2019,Qingdao,IL-17A,corneal,8,2,5,1,0.1,5
+C57BL/6 mice,BAC_B6,Qu 2019,Qingdao,IL-1β,corneal,2.5,1,5,1,0.1,5
+C57BL/6 mice,BAC_B6,Qu 2019,Qingdao,IL-6,corneal,7,3,5,1,0.1,5
+CD25KO mice,CD25KO mice,Rahimy 2010,Houston,CCL20,Lacrimal,400,0.1,5,1,0.1,5
+CD25KO mice,CD25KO mice,Rahimy 2010,Houston,CD4 T cells,Lacrimal,20,10,5,10,5,5
+CD25KO mice,CD25KO mice,Rahimy 2010,Houston,CD8 T cells,Lacrimal,47,10,5,8,2,5
+CD25KO mice,CD25KO mice,Rahimy 2010,Houston,IFN-γ,Lacrimal,21,0.1,5,1,0.1,5
+CD25KO mice,CD25KO mice,Rahimy 2010,Houston,IL-12,Lacrimal,150,0.1,5,1,0.1,5
+CD25KO mice,CD25KO mice,Rahimy 2010,Houston,IL-17A,Lacrimal,4,0.1,5,1,0.1,5
+CD25KO mice,CD25KO mice,Rahimy 2010,Houston,IL-2,Lacrimal,27,0.1,5,1,0.1,5
+CD25KO mice,CD25KO mice,Rahimy 2010,Houston,IL-21,Lacrimal,100,0.1,5,1,0.1,5
+CD25KO mice,CD25KO mice,Rahimy 2010,Houston,IL-23R,Lacrimal,7,0.1,5,1,0.1,5
+CD25KO mice,CD25KO mice,Rahimy 2010,Houston,TGF-β,Lacrimal,3,0.1,5,1,0.1,5
+C57BL/6 mice,DS mice,Reins 2017,Houston,CXCL1,ocular suface,20,5,5,10,4,5
+C57BL/6 mice,DS mice,Reins 2017,Houston,IL-1α,ocular suface,29,2,5,26,5,5
+C57BL/6 mice,DS mice,Reins 2017,Houston,IL-2,ocular suface,8,3,5,6,2,5
+C57BL/6 mice,DS mice,Reins 2017,Houston,IL-9,ocular suface,200,10,5,150,50,5
+IL-1RKO,IL-1RKO,Reins 2017,Houston,CXCL1,corneal,14,1,5,6,0.5,5
+IL-1RKO,IL-1RKO,Reins 2017,Houston,IL-1α,corneal,20,5,5,15,3,5
+IL-1RKO,IL-1RKO,Reins 2017,Houston,IL-2,corneal,3.7,0.7,5,2.1,0.1,5
+IL-1RKO,IL-1RKO,Reins 2017,Houston,IL-9,corneal,60,8,5,55,5,5
+wistar rats,SI rats,Ru 2015,Tianjin,IFN-γ,,6,0.6,6,2.8,0.4,6
+wistar rats,SI rats,Ru 2015,Tianjin,IL-1β,,12,3,6,2.6,1,6
+wistar rats,SI rats,Ru 2015,Tianjin,TNF-α,,2.9,0.3,6,1,0.1,6
+Albino rabbit,AS_albino,Sendon-Lago 2019,Santiago de Compostela,CCL2,corneal,20,2,6,1,0.1,6
+Albino rabbit,AS_albino,Sendon-Lago 2019,Santiago de Compostela,CXCL2,corneal,12,3,6,1,0.1,6
+Albino rabbit,AS_albino,Sendon-Lago 2019,Santiago de Compostela,IL-6,corneal,14,1,6,1,0.1,6
+Albino rabbit,AS_albino,Sendon-Lago 2019,Santiago de Compostela,TNF-α,corneal,45,5,6,1,0.1,6
+C57BL/6 mice,SI mice,sung 2015,Gwangju,CD4 T cells,conjunctiva ,64.36,15.19,5,16.05,5.22,5
+C57BL/6 mice,SI mice,sung 2015,Gwangju,IFN-γ,conjunctiva ,60,6,5,36,5,5
+C57BL/6 mice,SI mice,sung 2015,Gwangju,IL-1β,conjunctiva ,118,5,5,60,5,5
+C57BL/6 mice,SI mice,sung 2015,Gwangju,IL-6,conjunctiva ,33,6,5,12,3,5
+C57BL/6 mice,SI mice,sung 2015,Gwangju,TNF-α,conjunctiva ,12,1,5,2,0.5,5
+Albino rabbit,BAC_albino,tseng 2016,Taipei,IL-6,corneal,130,10,4,35,5,4
+Albino rabbit,BAC_albino,tseng 2016,Taipei,IL-8,corneal,900,100,4,400,50,4
+Albino rabbit,BAC_albino,tseng 2016,Taipei,TNF-α,corneal,135,30,4,8,5,4
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,CX3CL1,corneal,15,10,5,16,10,5
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,CXCL12,corneal,25,10,5,10,6,5
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,CXCL9,Lacrimal,55,10,5,1,0.1,5
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,IL-10,Lacrimal,7,2,5,5,2,5
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,IL-18,corneal,10,5,5,14,2.5,5
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,IL-1β,Lacrimal,0.6,0.2,5,0.9,0.4,5
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,IL-6,corneal,2.5,1,5,1.5,0.5,5
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,TGF-β,corneal,15,10,5,2,2,5
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,TGF-β,Lacrimal,25,20,5,10,1,5
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,TNF-α,corneal,3.8,1,5,2.1,0.5,5
+NFS/N mice,NFS/N mice,ushio 2017,Tokushima,TNF-α,Lacrimal,4,1,5,2,1,5
+Lewis rats,SI rats,Viau 2008,Dijon,IFN-γ,conjunctiva,20.9,13.1,4,1,0.1,4
+Lewis rats,SI rats,Viau 2008,Dijon,IL-1β,conjunctiva,126,55.9,4,1,0.1,4
+Lewis rats,SI rats,Viau 2008,Dijon,IL-6,conjunctiva,119.7,69.3,4,1,0.1,4
+Lewis rats,SI rats,Viau 2008,Dijon,TNF-α,conjunctiva,1.4,0.5,4,1,0.1,4
+B6.NOD-Aec1Aec2 mice,B6.NOD-Aec1Aec2 mice,voigt 2016,Florida,B cells,salivary,5,1,5,1,0.3,5
+B6.NOD-Aec1Aec2 mice,B6.NOD-Aec1Aec2 mice,voigt 2016,Florida,T cells,salivary,8,2.5,5,3,1,5
+B6.NOD-Aec1Aec2 mice,B6.NOD-Aec1Aec2 mice,voigt 2016,Florida,Th17,salivary,48,8,5,3,0.01,5
+C57BL/6 mice,SI mice,wu 2017,Fujian,CD4 T cells,conjunctiva ,32,5,5,9.5,0.1,5
+C57BL/6 mice,SI mice,wu 2017,Fujian,IFN-γ,conjunctiva ,1400,250,5,1000,100,5
+C57BL/6 mice,SI mice,wu 2017,Fujian,IL-13,conjunctiva ,150,50,5,280,50,5
+C57BL/6 mice,SI mice,wu 2017,Fujian,IL-17A,conjunctiva ,900,80,5,600,50,5
+NOD mice,NOD mice,yanagi 1998,Tokushima,IFN-γ,spleen,410,10,3,57,20,3
+NOD mice,NOD mice,yanagi 1998,Tokushima,IL-2,spleen,390,30,3,55,10,3
+NOD mice,NOD mice,yanagi 1998,Tokushima,IL-4,spleen,80,5,3,53,7,3
+C57BL/6 mice,SI mice,yoon 2007,Gwangju,CXCR3,conjunctiva ,2.3,0.5,10,1,0.1,10
+B6.NOD-Aec1Aec2 mice,B6.NOD-Aec1Aec2 mice,you 2015,Jeonbuk,CD4 T cells,conjunctiva ,2.07,0.32,3,1.46,0.41,3
+B6.NOD-Aec1Aec2 mice,B6.NOD-Aec1Aec2 mice,you 2015,Jeonbuk,IL-17a,conjunctiva ,45,1,6,39,0.1,6
+B6.NOD-Aec1Aec2 mice,B6.NOD-Aec1Aec2 mice,you 2015,Jeonbuk,IL-1α,conjunctiva ,4,0.15,6,3,0.1,6
+B6.NOD-Aec1Aec2 mice,B6.NOD-Aec1Aec2 mice,you 2015,Jeonbuk,IL-1β,conjunctiva ,12,0.5,6,4,0.5,6
+B6.NOD-Aec1Aec2 mice,B6.NOD-Aec1Aec2 mice,you 2015,Jeonbuk,MHC II,conjunctiva ,0.5,0.1,6,1,0.1,6
+B6.NOD-Aec1Aec2 mice,B6.NOD-Aec1Aec2 mice,you 2015,Jeonbuk,TNF-α,conjunctiva ,2.5,0.1,6,3,0.1,6
+C57BL/6 mice,SI mice,Zhang 2011,Houston,CD4 T cells,ocular suface,25,2,3,14,2,3
+C57BL/6 mice,SI mice,Zhang 2011,Houston,IFN-γ,ocular suface,19,1,3,5,1,3
+C57BL/6 mice,SI mice,Zhang 2011,Houston,IL-13,ocular suface,20,2,3,38,1,3
+C57BL/6 mice,SI mice,Zhang 2011,Houston,IL-17A,ocular suface,28,1,3,16,1,3
+C57BL/6 mice,SI mice,Li 2013,Gwangju,IL-1β,conjunctiva,6.82,1.01,5,1.08,0.4,5
+C57BL/6 mice,SI mice,Li 2013,Gwangju,IL-6,conjunctiva,2.95,0.85,5,0.9,0.19,5
+C57BL/6 mice,SI mice,Li 2013,Gwangju,TNF-α,conjunctiva,1.59,0.39,5,0.5,0.18,5
+C57BL/6 mice,SI mice,Li 2013,Gwangju,IFN-γ,conjunctiva,47.93,6.41,5,25.88,3.87,5
+IL-22 KO mice,SI mice,Ji 2017,Seoul,IL-6,ocular suface,70,5,5,10,4,5
+IL-22 KO mice,SI mice,Ji 2017,Seoul,IL-23,ocular suface,56,5,5,9,5,5
+IL-22 KO mice,SI mice,Ji 2017,Seoul,IL-17,ocular suface,15,3,5,1,0.1,5
+C57BL/6 mice,SI mice,Ji 2017,Seoul,IL-6,ocular suface,27,15,5,10,3,5
+C57BL/6 mice,SI mice,Ji 2017,Seoul,IL-23,ocular suface,24,10,5,10,10,5
+C57BL/6 mice,SI mice,Ji 2017,Seoul,IL-17,ocular suface,4,1,5,1,0.1,5
+C57BL/6 mice,SI mice,Yoon 2011,Gwangju,CD4 T cells,conjunctiva,7,4,3,1.5,1,3
+C57BL/6 mice,SI mice,Yoon 2011,Gwangju,IL-1β,conjunctiva,6.3,1.5,3,2.1,0.2,3
+C57BL/6 mice,SI mice,Yoon 2011,Gwangju,IL-6,conjunctiva,18,5,3,7,2,3
+NOD.B10.H2b mice ,SI mice,Yoon 2011,Gwangju,CD4 T cells,conjunctiva,8.4,4,3,5.7,1,3
+NOD.B10.H2b mice ,SI mice,Yoon 2011,Gwangju,IL-1β,conjunctiva,8.1,2,3,2.1,4,3
+NOD.B10.H2b mice ,SI mice,Yoon 2011,Gwangju,IL-6,conjunctiva,20,4,3,9.5,1,3
+CBA/J mice,BTX_CBA/J mice,Zhu 2009,Baltimore,TNF-α,ocular suface,0.4,0.01,5,0.15,0.01,5
+CBA/J mice,BTX_CBA/J mice,Zhu 2009,Baltimore,IL-1β,ocular suface,0.5,0.1,5,0.13,0.1,5
+CBA/J mice,BTX_CBA/J mice,Zhu 2009,Baltimore,IL-6,ocular suface,0.2,0.05,5,0.2,0.05,5
